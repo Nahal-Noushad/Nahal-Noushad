@@ -21,9 +21,18 @@ int main(){}
 #define m_cho 30
 #define m_p 5.5
 
+int value;
+printf("Enter 1: Order a coffee type\n");
+printf("Enter 2: Admin mode for the coffee maker operator\n");
+printf("Enter 3: End the application execution\n");
+scanf("%d", &value)
 
 int menu_main(int value)
 {
 
 }
 
+int quantity(int cb, int w, int m, int cs)
+{
+
+}
