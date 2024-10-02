@@ -22,7 +22,7 @@ int main(){
 #define m_cho 30
 #define m_p 5.5
 
-#define password 'uowdcafe99'
+#define password 9671
 
 int value;
 printf("Enter 1: Order a coffee type\nEnter 2: Admin mode for the coffee maker operator\nEnter 3: End the application execution\n");
